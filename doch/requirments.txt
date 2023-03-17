@@ -1,0 +1,3 @@
+##### Anforderung mit VErsion #####
+
+Django == 3.0.6
